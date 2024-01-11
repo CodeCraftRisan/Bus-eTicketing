@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467521613789",
+    "project_id": "bustics00",
+    "storage_bucket": "bustics00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467521613789:android:0a1610766338c3ef321034",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08bptAZRl-UaBKwvtY2Fwmrd2N4-nMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467521613789:android:a532cd52a86cd388321034",
+        "android_client_info": {
+          "package_name": "com.bustics.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08bptAZRl-UaBKwvtY2Fwmrd2N4-nMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
